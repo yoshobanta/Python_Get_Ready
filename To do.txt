@@ -1,0 +1,13 @@
+Week 1 (May 23–29, 2025): Establish foundational momentum
+
+Python & OOP Deep Dive: Complete Chapters 1–3 of Python Bootcamp (functions, loops, classes).
+
+DSA Warm-Up: Solve 10 easy LeetCode problems (5 arrays, 5 strings). Push solutions to GitHub.
+
+Git & GitHub: Create your python-foundation repo. Commit daily code; practice branching & merging.
+
+Linux CLI: Complete a 1-hour tutorial; write a bash script to automate folder backups.
+
+Small Project: Build & document the Number Guessing Game in your repo. Add README and usage instructions.
+
+Reflection: At week’s end, review accomplishments, note blockers, and adjust Week 2 plan accordingly.
