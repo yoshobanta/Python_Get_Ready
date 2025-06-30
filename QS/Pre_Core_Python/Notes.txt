@@ -1,0 +1,15 @@
+For Loop :
+It is a looping statement which is use to execute a set of instruction again and again by traversing through each and every element of the collection.
+In case of for loop initilization and the updatation of looping variable is not required. This are optional or automated.
+
+For loop we know how many times the iteration and while we do not know. Eg - palindrome, armstrong number (whithout type casting)
+
+
+Range Function :
+It is a built in Function which is use to generate the sequence of numbers in between the user entered limits.
+Since the elements generatated files in function is not having any structure we cannot display there.
+If we need to display we have to make use of a concept of type casting.(list,tuple)
+To iterate through the range collection type casting is not required.
+
+
+
