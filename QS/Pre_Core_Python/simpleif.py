@@ -19,17 +19,17 @@ if a % 8 == 0:
 else:
     print('the entered numebr is not divisible by 8')
 
-# WAP to check whether the entered number is posotive or negative.
+# WAP to check whether the entered number is positive or negative.
 a = int(input('enter the number:'))
 if a > 0 :
     print('the entered number is positive')
 else:
     print('the entered number is negative')
     
-# WAP to check whether the entered character is upercase alphabet or not.
-a = input('enter the chatacter')
+# WAP to check whether the entered character is uppercase alphabet or not.
+a = input('enter the character')
 if 'A' <= a <= 'Z':
-    print('the entered charcater is uppercase alphabet')
+    print('the entered character is uppercase alphabet')
 else:
     print('the entered character is not an uppercase alphabet')
 
