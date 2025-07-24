@@ -241,17 +241,3 @@ def mul(a, b):
 @restrict
 def div(a, b):
     return a / b
-
-
-
-
-
-
-
-
-
-
-
-
-
-

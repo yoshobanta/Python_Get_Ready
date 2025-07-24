@@ -1,0 +1,3 @@
+hii
+hello
+i am writelines method
