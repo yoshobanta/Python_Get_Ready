@@ -60,7 +60,7 @@
 #             print(cleaned_line.split()[2])
 
 # print(f)
-
+###---------------------------------####
 #### Write to a file/
 
 # data1 = 'hiii\n'
